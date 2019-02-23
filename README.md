@@ -1,1 +1,1 @@
-Hi! I'm Git
+Hi! I'm Git, your buddy
